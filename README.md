@@ -1,11 +1,10 @@
 # Web Vulnerability Scanner 🔍🛡️
 
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Security](https://img.shields.io/badge/security-pentesting-red.svg)](https://github.com/Hector-SWAT)
 
 <div align="center">
-  <img src="https://i.imgur.com/TU_IMAGEN_SCANNER.png" alt="Web Vulnerability Scanner Interface" width="800">
+  <img src="https://i.imgur.com/JSxVQqp.png" alt="Web Vulnerability Scanner Interface" width="800">
   <p><i>Escáner avanzado de vulnerabilidades web para pruebas de penetración</i></p>
 </div>
 
