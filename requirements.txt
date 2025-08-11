@@ -1,0 +1,7 @@
+beautifulsoup4
+fake-useragent
+requests
+lxml
+urllib3
+tqdm
+colorama
